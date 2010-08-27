@@ -15,7 +15,15 @@
       </controllersDirectory>
       <formsDirectory enabled="false"/>
       <layoutsDirectory enabled="false"/>
-      <modelsDirectory/>
+      <modelsDirectory>
+        <dbTableDirectory>
+          <dbTableFile dbTableName="Affiliate"/>
+          <dbTableFile dbTableName="Category"/>
+          <dbTableFile dbTableName="CategoryAffiliate"/>
+          <dbTableFile dbTableName="Job"/>
+        </dbTableDirectory>
+        <modelFile modelName="Affiliate"/>
+      </modelsDirectory>
       <modulesDirectory>
         <moduleDirectory moduleName="default">
           <apisDirectory enabled="false"/>

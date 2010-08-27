@@ -2,10 +2,7 @@
 <projectProfile type="default" version="1.10">
   <projectDirectory>
     <projectProfileFile filesystemName=".zfproject.xml"/>
-<<<<<<< HEAD
-=======
     <applicationDirectory classNamePrefix="Jobeet_">
->>>>>>> 4ac51b15cd27a4e252f2729329b32475471c2a72
       <apisDirectory enabled="false"/>
       <configsDirectory>
         <applicationConfigFile type="ini"/>
@@ -18,8 +15,6 @@
       </controllersDirectory>
       <formsDirectory enabled="false"/>
       <layoutsDirectory enabled="false"/>
-<<<<<<< HEAD
-=======
       <modelsDirectory>
         <dbTableDirectory>
           <dbTableFile dbTableName="Affiliate"/>
@@ -57,7 +52,6 @@
           </viewsDirectory>
         </moduleDirectory>
       </modulesDirectory>
->>>>>>> 4ac51b15cd27a4e252f2729329b32475471c2a72
       <viewsDirectory>
         <viewScriptsDirectory>
           <viewControllerScriptsDirectory forControllerName="Index">

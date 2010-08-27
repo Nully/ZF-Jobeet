@@ -86,4 +86,4 @@ ALTER TABLE `category_affiliate`
 -- ÉeÅ[ÉuÉãÇÃêßñÒ `job`
 --
 ALTER TABLE `job`
-  ADD CONSTRAINT `job_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `job` (`id`) ON DELETE CASCADE;
+  ADD CONSTRAINT `job_ibfk_1` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`) ON DELETE CASCADE;
